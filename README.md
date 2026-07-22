@@ -81,8 +81,8 @@ week1-task2/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/tv-show-explorer.git
-   cd tv-show-explorer
+   git clone https://github.com/yasirali10A/Discover-Amazing-TV-Shows.git
+   cd Discover-Amazing-TV-Shows
    ```
 
 2. **Install Dependencies**
