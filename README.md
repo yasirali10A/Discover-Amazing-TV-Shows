@@ -1,6 +1,9 @@
 # 📺 TV Show Explorer – React + Vite
 
-A modern, responsive, Netflix-inspired web application for searching and exploring TV shows using the public **TVMaze API**. Built with **React 19**, **Vite**, **Axios**, and **CSS Modules/Variables**.
+A modern, responsive, Netflix-inspired web application for searching and exploring TV shows using the public **TVMaze API**. Built with **React 19**, **Vite**, **Axios**, and **Vanilla CSS**.
+
+🔗 **Live Demo**: [https://discover-amazing-tv-shows.vercel.app/](https://discover-amazing-tv-shows.vercel.app/)  
+📦 **GitHub Repository**: [https://github.com/yasirali10A/Discover-Amazing-TV-Shows](https://github.com/yasirali10A/Discover-Amazing-TV-Shows)
 
 ![TV Show Explorer Header](https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?q=80&w=1200&auto=format&fit=crop)
 
@@ -103,14 +106,18 @@ week1-task2/
 
 ---
 
-## 🌐 Live Deployment to Netlify
+## 🌐 Live Deployment on Vercel
 
-To deploy on **Netlify**:
+The application is deployed live on **Vercel**:
 
-1. Connect your GitHub repository to Netlify.
-2. Set the Build Command: `npm run build`
-3. Set the Publish Directory: `dist`
-4. Click **Deploy Site**.
+🔗 **Live URL**: [https://discover-amazing-tv-shows.vercel.app/](https://discover-amazing-tv-shows.vercel.app/)
+
+### How to Deploy on Vercel:
+1. Import your GitHub repository (`yasirali10A/Discover-Amazing-TV-Shows`) into [Vercel](https://vercel.com).
+2. Framework Preset: **Vite**
+3. Build Command: `npm run build`
+4. Output Directory: `dist`
+5. Click **Deploy**.
 
 ---
 
